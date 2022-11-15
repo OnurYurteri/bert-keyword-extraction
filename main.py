@@ -4,6 +4,7 @@ import json
 from keybert import KeyBERT
 from transformers.pipelines import pipeline
 from transformers import AutoModel, AutoTokenizer
+from sentiment import run_sentiment
 
 DATASET_PATH = './news'
 SECTION = "content"
@@ -40,6 +41,9 @@ def run_it(file_name):
 
         keywords = kw_model.extract_keywords(paper_content, keyphrase_ngram_range=(1, 3), use_mmr=True, diversity=0.4, top_n=NUM_OF_RESULT)
         result["ngram3:diversed"] = keywords
+
+        sentiment = run_sentiment(paper_content)
+        data["sentiment"] = sentiment
 
         data["_result"] = result
         update_json_file(json_file, data)
