@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/binance-hacked-by-false-trading-bot-platforms--cz-asks-users-to-delete-api-keys-2943461",
+    "content": "Binance Hacked by False Trading Bot Platforms – CZ Asks Users to Delete API Keys Cryptocurrency 19 hours ago (Nov 14, 2022 11:30AM ET) Binance Hacked by False Trading Bot Platforms – CZ Asks Users to Delete API KeysBinance Hacked by False Trading Bot Platforms – CZ Asks Users to Delete API Keys Amidst the tumultuous market conditions induced by the collapse of FTX, Binance, the world’s largest cryptocurrency exchange, has suffered a compromise by false trading bot platforms, as users fell victim to phishing scams. Binance Compromised in Latest Exchange Attack Following the mysterious attack on beleaguered crypto exchange, FTX, a number Binance users have reported the occurence of an exploit on the exchange, with funds being drained and transferred by hackers. The Binance accounts are those owned by users who registered for third-party trading bots such as 3Commas and Skyrex. In an elaborate ploy, hackers developed a mock-up app resembling 3Commas in order to lure in users and trick them into sharing sensitive information. Binance users who registered on these fake trading bot platforms had their exchange API identifiers stolen, which the attackers swiftly used to execute trades and steal funds from the accounts of victims. CZ Tells Victims to Delete Their APIs Binance CEO Changpeng “CZ” Zhao has since asked users who shared their API keys with such third-party platforms, and reported unexpected activity on their Binance accounts, to delete their APIs. API keys provide third parties with authorization to access a user’s accounts for trading. The plea from the Binance boss is hence aimed at preventing any further attacks by third-party platforms on accounts on the platform. CZ tweeted: We seen at least 3 cases of users who shared their API key with 3rd party platforms (Skyrex and 3commas), and seen unexpected trading on their accounts. If you used such a platform before, I highly recommend you to delete your API keys just to be safe. — CZ Binance (@cz_binance) November 14, 2022 On the Flipside CZ stated that Binance will move to disable all API keys used by Skyrex, even without action from users, out of caution, and to avoid risk of any further aggravation. Why You Should Care Although Binance is not directly responsible for the hack, the exchange has provided a solution to contain the damage caused to users by the phishing scam. Get details on Binance’s recovery fund: Binance is Forming a Recovery Fund to Assist Projects Experiencing Liquidity Issues Read more on the weekend’s FTX hack: Kraken Freezes Accounts Related to FTX and Alameda After Hacker Moves Funds Through Exchange",
+    "_result": {
+        "default": [
+            [
+                "hacker",
+                0.4339
+            ],
+            [
+                "hackers",
+                0.4312
+            ],
+            [
+                "hacked",
+                0.4226
+            ]
+        ],
+        "default:diversed": [
+            [
+                "hacker",
+                0.4339
+            ],
+            [
+                "cz_binance",
+                0.3318
+            ],
+            [
+                "cryptocurrency",
+                0.3301
+            ]
+        ],
+        "ngram2": [
+            [
+                "hackers binance",
+                0.635
+            ],
+            [
+                "binance hacked",
+                0.6122
+            ],
+            [
+                "hack exchange",
+                0.5741
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "hackers binance",
+                0.635
+            ],
+            [
+                "hack exchange",
+                0.5741
+            ],
+            [
+                "trading bot",
+                0.5438
+            ]
+        ],
+        "ngram3": [
+            [
+                "responsible hack exchange",
+                0.557
+            ],
+            [
+                "binance compromised",
+                0.5617
+            ],
+            [
+                "trading bots 3commas",
+                0.5777
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "hackers binance accounts",
+                0.6471
+            ],
+            [
+                "false trading bot",
+                0.6019
+            ],
+            [
+                "api keys cryptocurrency",
+                0.3971
+            ]
+        ]
+    }
+}

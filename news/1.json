@@ -1,0 +1,90 @@
+{
+    "url": "https://cointelegraph.com/news/btc-losses-get-real-as-bitcoin-sopr-metric-hits-lowest-since-march-2020",
+    "content": "BTC losses get real as Bitcoin SOPR metric hits lowest since March 2020 Sale price versus price paid diverges the most in over two years since the last Bitcoin “black swan” event. 802 Total views 15 Total shares Listen to article 3:13 BTC losses get real as Bitcoin SOPR metric hits lowest since March 2020MARKETS NEWS Bitcoin BTC tickers down $16,780 sellers are nursing their largest overall losses since March 2020, one on-chain metric suggests. Data from on-chain analytics firm Glassnode confirms that Bitcoin’s spent output profit ratio (SOPR) has now fallen to two-year lows. BTC on-chain losses mount As Bitcoin holders attempt to pull funds from exchanges into noncustodial wallets, those moving coins around are doing so at multi-year high losses. SOPR divides the realized value of coins in a spent output by their value at creation. In other words, as Glassnode summarizes, “price sold / price paid.” As Cointelegraph reported, SOPR fluctuates around 1 and tends to be below that level during Bitcoin bear markets and above it in bull markets. This is logical, as unrealized losses increase through the bear market phase, leading to relatively larger overall realized losses once coins are sold. As such, the end of bear markets tends to see lower SOPR. As of Nov. 14, the metric’s seven-day moving average was at 0.9847 — its lowest since the March 2020 COVID-19 cross-market crash. Bitcoin spent output profit ratio (SOPR) chart. Source: Glassnode SOPR has further implications for BTC price action. Should BTC/USD start gaining, hodlers will have the incentive to sell at a cost price or slightly above to avoid losses. This leads to a supply glut, which without buyers, logically forces the price lower again. SOPR thus acts as a useful forecasting tool for potential price trends, with 1 once again being the important line in the sand when it comes to hodlers turning to sellers. “Due to the fundamental nature of underlying metrics on which the SOPR relies on, it would be fair to speculate that the Spent Output Profit Ratio is influencing price changes,” Renatio Shirakashi, the metric’s creator, stated in an introduction to it in 2019: “This can be of considerable significance, since most current indicators are lagging indicators.” March 2020 briefly saw SOPR dip to just 0.9486, still not as low as the end of the 2018 bear market, which produced a score of 0.9416. Bitcoin spent output profit ratio (SOPR) chart. Source: Glassnode 4 million wallets now hodl at least 0.1 BTC Meanwhile, those engaged in “buying the dip” are doing so even at the smallest level. Related: Elon Musk says BTC ‘will make it’ — 5 things to know in Bitcoin this week Further Glassnode data shows that the number of wallets containing at least 0.1 BTC, or around $1,700 at the time of writing, has now passed 4 million. While almost constantly rising this year, the trend saw a marked acceleration as BTC/USD fell due to the FTX scandal.",
+    "_result": {
+        "default": [
+            [
+                "sopr",
+                0.4133
+            ],
+            [
+                "losses",
+                0.3765
+            ],
+            [
+                "btc",
+                0.3444
+            ]
+        ],
+        "default:diversed": [
+            [
+                "sopr",
+                0.4133
+            ],
+            [
+                "losses",
+                0.3765
+            ],
+            [
+                "btc",
+                0.3444
+            ]
+        ],
+        "ngram2": [
+            [
+                "losses sopr",
+                0.6031
+            ],
+            [
+                "bitcoin sopr",
+                0.5764
+            ],
+            [
+                "btc losses",
+                0.5433
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "losses sopr",
+                0.6031
+            ],
+            [
+                "bitcoin sopr",
+                0.5764
+            ],
+            [
+                "btc price",
+                0.4291
+            ]
+        ],
+        "ngram3": [
+            [
+                "reported sopr fluctuates",
+                0.4976
+            ],
+            [
+                "btc losses",
+                0.5433
+            ],
+            [
+                "real bitcoin sopr",
+                0.557
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "sopr implications btc",
+                0.6316
+            ],
+            [
+                "losses real bitcoin",
+                0.5649
+            ],
+            [
+                "price trends",
+                0.4232
+            ]
+        ]
+    }
+}

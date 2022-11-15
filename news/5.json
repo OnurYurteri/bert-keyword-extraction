@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/dydx-one-of-the-larger-beneficiaries-of-recent-ftx-drama-2944417",
+    "content": "DYDX One of the Larger Beneficiaries of Recent FTX Drama Cryptocurrency 37 minutes ago (Nov 15, 2022 06:00AM ET) DYDX One of the Larger Beneficiaries of Recent FTX DramaDYDX One of the Larger Beneficiaries of Recent FTX Drama BTC/USD +0.18% ETH/USD +0.63% Data from Santiment shows that crypto sharks went on a DYDX accumulation drive. Addresses holding between 1k to 10k DYDX accumulated to an 11-month high. The price of DYDX has skyrocketed more than 50% over the last week. Data posted by the blockchain intelligence firm, Santiment, on Twitter this morning shows that dYdX (DYDX) is one of the larger beneficiaries of the recent collapse of the crypto exchange, FTX. The data from Santiment shows that smart investors accumulated DYDX tokens prior to this week’s price surge. DYDX accumulation surges (Source: Santiment) Santiment’s data also shows that the accumulation of addresses holding between 1,000 to 10,000 DYDX reached an 11-month high before its price skyrocketed. According to CoinMarketCap, the price of DYDX is trading at $2.43 at press time following a 7.98% price increase over the last 24 hours. This adds to the stand-out weekly performance of the altcoin, boosting its weekly performance to +53.50%. Over the last day, the price of DYDX has also strengthened against the two crypto market leaders, Bitcoin (BTC) and Ethereum (ETH), by 3.05% and 2.09% respectively. Daily chart for DYDX/USDT (Source: CoinMarketCap) As can be seen by the daily chart for DYDX/USDT, investors that kept a close eye on the movements of the 9, 20, and 50 EMA lines would have entered into the bullish move relatively early, as the first bullish cross of the 9 and 20 EMA lines occurred on the 11th of October 2022. The 9 EMA then crossed above the 50 EMA just 6 days later. A confirmation of the bullish move was the 20 EMA crossing above the 50 EMA on the 26th of October. The price of DYDX then spiked for the few days that followed before pulling back to rest on the 50 EMA level. However, bulls still had the upper hand as all three EMA lines kept their bullish stance, which was proven despite the 3-day dip below the 50 EMA level. Disclaimer: The views and opinions, as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss. The post DYDX One of the Larger Beneficiaries of Recent FTX Drama appeared first on Coin Edition.",
+    "_result": {
+        "default": [
+            [
+                "dydx",
+                0.6354
+            ],
+            [
+                "cryptocurrency",
+                0.378
+            ],
+            [
+                "dramadydx",
+                0.3406
+            ]
+        ],
+        "default:diversed": [
+            [
+                "dydx",
+                0.6354
+            ],
+            [
+                "cryptocurrency",
+                0.378
+            ],
+            [
+                "surges",
+                0.2124
+            ]
+        ],
+        "ngram2": [
+            [
+                "dydx trading",
+                0.6977
+            ],
+            [
+                "dydx accumulated",
+                0.6818
+            ],
+            [
+                "dydx skyrocketed",
+                0.6677
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "dydx trading",
+                0.6977
+            ],
+            [
+                "dydx skyrocketed",
+                0.6677
+            ],
+            [
+                "collapse crypto",
+                0.3587
+            ]
+        ],
+        "ngram3": [
+            [
+                "dydx usdt investors",
+                0.6689
+            ],
+            [
+                "dydx accumulation surges",
+                0.6713
+            ],
+            [
+                "dydx strengthened crypto",
+                0.6919
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "price dydx skyrocketed",
+                0.7061
+            ],
+            [
+                "dydx strengthened crypto",
+                0.6919
+            ],
+            [
+                "ftx drama cryptocurrency",
+                0.4958
+            ]
+        ]
+    }
+}

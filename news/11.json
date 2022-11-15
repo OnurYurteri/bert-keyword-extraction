@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/apple-job-listings-and-patents-hint-at-foray-into-3d-mixedreality-world-2944065",
+    "content": "Apple job listings and patents hint at foray into ‘3D mixed-reality world’ Cryptocurrency 6 hours ago (Nov 15, 2022 12:40AM ET) Apple job listings and patents hint at foray into ‘3D mixed-reality world’ Apple job listings and patents hint at foray into ‘3D mixed-reality world’ AAPL -0.95% Technology giant Apple (NASDAQ:AAPL) appears to be working towards the development of a metaverse-sounding “3D mixed-reality world,” according to related patent filings and recent job postings. Since Nov. 1, over 30 jobs have been listed on Apple’s careers page related to augmented and virtual reality (AR/VR) with the Big Tech player seeking a mix of software and hardware engineers to be mostly based in its Technology Development Group (TDG).",
+    "_result": {
+        "default": [
+            [
+                "apple",
+                0.407
+            ],
+            [
+                "3d",
+                0.389
+            ],
+            [
+                "careers",
+                0.3797
+            ]
+        ],
+        "default:diversed": [
+            [
+                "apple",
+                0.407
+            ],
+            [
+                "careers",
+                0.3797
+            ],
+            [
+                "vr",
+                0.3747
+            ]
+        ],
+        "ngram2": [
+            [
+                "apple careers",
+                0.5719
+            ],
+            [
+                "apple job",
+                0.545
+            ],
+            [
+                "ar vr",
+                0.4287
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "apple careers",
+                0.5719
+            ],
+            [
+                "ar vr",
+                0.4287
+            ],
+            [
+                "patents hint",
+                0.3616
+            ]
+        ],
+        "ngram3": [
+            [
+                "3d mixed reality",
+                0.4189
+            ],
+            [
+                "job listings patents",
+                0.4273
+            ],
+            [
+                "technology giant apple",
+                0.5259
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "listed apple careers",
+                0.5974
+            ],
+            [
+                "vr big tech",
+                0.5356
+            ],
+            [
+                "aapl 95 technology",
+                0.3602
+            ]
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625",
+    "content": "Bitcoin Cash To Become the Legal Tender in St. Kitts and Nevis Cryptocurrency 15 hours ago (Nov 14, 2022 03:00PM ET) 1 Bitcoin Cash To Become the Legal Tender in St. Kitts and Nevis© Reuters. Bitcoin Cash To Become the Legal Tender in St. Kitts and Nevis BCH/USD -44.11% BTC/USD +0.19% The prime minister of St. Kitts and Nevis said BCH would be a legal tender in the country. BCH forked from Bitcoin in 2017 to make transactions faster and easier. A debate sparked on the internet over the choice of adopting BCH instead of BTC. Terrance Micheal Drew, the prime minister of the dual island of St. Kitts and Nevis recently announced at the Bitcoin Cash 2022 Conference that the country would make Bitcoin Cash (BCH) a legal tender by March 2023. Kim Dotcom, the German-Finnish Internet entrepreneur, shared the news on Twitter: The Prime Minister of St. Kitts and Nevis just announced that #BitcoinCash will become legal tender in his country by March 2023. A big step for BCH as no nation can outlaw the currencies of other nations. Mass utilization with amazing new apps is next. pic.twitter.com/WjnaZxGv50 — Kim Dotcom (@KimDotcom) November 13, 2022 Drew, who is also the finance minister of the island, said the choice would be made after conducting adequate research and consulting with specialists and the Eastern Caribbean Central Bank. The decision highlights the growing trend of the widespread adoption of crypto demonstrated by the Central African Republic’s introduction of Bitcoin (BTC) as legal cash in April. Bitcoin Cash forked from Bitcoin in 2017 intending to make transactions faster and easier. On the contrary, a debate sparked over the internet regarding the country’s choice of adopting Bitcoin Cash instead of Bitcoin. Drew vocally expressed his excitement in introducing crypto to daily commodities by adding: I welcome the opportunity to dialogue further, to explore future opportunities to engage in bitcoin cash mining, and making bitcoin cash legal tender here in St. Kitts and Nevis by March 2023, once safeguards to our country and our people are guaranteed. The crypto community believes that having legal tender status is a significant improvement for Bitcoin Cash. The action is likely to persuade investors that BCH was still valuable and might see improvement in the future. Concurrently, earlier this year, the Central African Republic voted unanimously to pass a bill legalizing crypto. The country started accepting Bitcoin as a legal tender along with the regional Central African CFA franc. The post Bitcoin Cash To Become the Legal Tender in St. Kitts and Nevis appeared first on Coin Edition.",
+    "_result": {
+        "default": [
+            [
+                "bitcoincash",
+                0.4524
+            ],
+            [
+                "bitcoin",
+                0.4136
+            ],
+            [
+                "btc",
+                0.37
+            ]
+        ],
+        "default:diversed": [
+            [
+                "bitcoincash",
+                0.4524
+            ],
+            [
+                "legalizing",
+                0.261
+            ],
+            [
+                "2023",
+                0.2309
+            ]
+        ],
+        "ngram2": [
+            [
+                "bitcoincash legal",
+                0.5666
+            ],
+            [
+                "bitcoin legal",
+                0.5339
+            ],
+            [
+                "legal tender",
+                0.529
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "bitcoincash legal",
+                0.5666
+            ],
+            [
+                "instead btc",
+                0.4309
+            ],
+            [
+                "nevis bch",
+                0.4091
+            ]
+        ],
+        "ngram3": [
+            [
+                "legal tender status",
+                0.5306
+            ],
+            [
+                "cash forked bitcoin",
+                0.5604
+            ],
+            [
+                "bitcoin cash bch",
+                0.5801
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "bitcoin legal tender",
+                0.6619
+            ],
+            [
+                "bitcoin cash bch",
+                0.5801
+            ],
+            [
+                "kitts nevis bch",
+                0.4046
+            ]
+        ]
+    }
+}

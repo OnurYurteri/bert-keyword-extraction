@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/stock-market-news/cryptoverse-so-long-solana-ether-rival-clobbered-by-ftx-crash-2944080",
+    "content": "Cryptoverse: So long, Solana? Ether rival clobbered by FTX crash Stock Markets 35 minutes ago (Nov 15, 2022 06:01AM ET) Cryptoverse: So long, Solana? Ether rival clobbered by FTX crash© Reuters. FILE PHOTO: Representations of cryptocurrencies plunge into water in this illustration taken, May 23, 2022. REUTERS/Dado Ruvic/Illustration/File Photo USDT/USD 0% ETH/USD +0.02% SOL/USD +0.83% By Lisa Pauline Mattackal and Medha Singh (Reuters) - Solana, a poster coin of the crypto future, is in trouble. The cryptocurrency, which had been lauded by FTX's founder Sam Bankman-Fried, has been hit harder than any other major coin by the collapse of the exchange. The Solana token, or SOL, has dropped 53.8% since the furor began unfolding on Nov. 2. By comparison, ether has fallen about 20% and bitcoin 19%. 'In the current crypto shakeout, the most unfortunate innocent victim is the Solana ecosystem,' said Stefan Rust, CEO of blockchain wallet company Laguna Labs. He and several other crypto players said FTX and sister firm Alameda Research likely sold a large amount of the coin in an attempt to stay afloat. Many investors and app developers look to be leaving the Solana blockchain, which is widely used for decentralized finance applications; the number of SOL coins deposited there has fallen to 24.74 million, some way south of the 68.2 million seen in June, according to data from aggregator DeFiLlama. FTX and Alameda Research didn't respond to requests for comment. Solana co-founder Anatoly Yakovenko tweeted that development company Solana Labs didn't hold any assets on FTX and had enough financial runway for around 30 months. Another co-founder, Raj Gokal, said this was a 'crucible' moment for the ecosystem, adding 'each time, we're stronger'. Nonetheless, uncertainty stalks the blockchain that's been dubbed an 'Ethereum killer' in the past because of its lower transaction fees, faster processing speed and potential to scale. 'It's not the end for Solana,' said Adam Struck, at LA-based venture firm Struck Capital. 'It has established itself as a thriving ecosystem and competitor to Ethereum. But do I think valuation is a little frothy? Yes.' Some see a silver lining. 'It's much better for Solana that the connection with Sam Bankman-Fried's empire is ending now, even if the result is serious short-term pain,' said Jack Saracco, co-founder of digital bank and payments solutions firm Ping. SOL's market capitalization has shrunk about 55% since Nov. 2, from $11.6 billion to $5.1 billion, according to data from CoinGecko. Ether's market cap has fallen 21% to $150.7 billion, while bitcoin's has fallen 18% to $319 billion. 'BLOOD IN THE STREETS' The FTX saga began unfolding in early November when news website CoinDesk reported a leaked balance sheet that showed Alameda Research was heavily dependent on FTX's native token, FTT. Reuters was unable to verify the report. See timeline. The exchange filed for bankruptcy on Friday after traders rushed to withdraw $6 billion from the platform in just 72 hours and rival Binance abandoned a proposed rescue deal. The collapse of the company has seen more than $190 billion wiped from the value of the overall crypto market. 'This is what the old guys used to call 'blood in the streets',' said Martin Leinweber, digital asset product strategist at MarketVector Indexes. 'There is no Fed or Treasury here to support prices, so the market simply cleans things up.' Yet even amidst the blood-letting, there was some unexpected stability from stablecoins, which are pegged to the value of mainstream assets such as the U.S. dollar in an effort to reduce tame crypto volatility. Despite the biggest stablecoin Tether having a brief wobble when it touched $0.985, according to CoinMarketCap, it managed to maintain its peg to the dollar, as did USDCoin, the second largest. 'Most stablecoins performed within their normal volatility bands with the exception of some small algorithmic ones,' Leinweber added. That's a reversal from earlier in the year when these coins, notably Tether, lost their peg as the market was hit by volatility following the collapse of the TerraUSD stablecoin.. Some investors attributed the new resilience of the stablecoins, often used to move funds between crypto and regular cash, to greater transparency over their reserves. 'Everyone expected Tether would be the first to fall but it hasn't,' said Saracco at Ping. 'I think a lot of observers don't realize how battle-tested Tether really is.' GRAPHIC: Pegged cryptos remain steady (https://graphics.reuters.com/FINTECH-CRYPTO/WEEKLY/jnpwyegnopw/chart.png)",
+    "_result": {
+        "default": [
+            [
+                "cryptocurrencies",
+                0.4447
+            ],
+            [
+                "solana",
+                0.4437
+            ],
+            [
+                "cryptocurrency",
+                0.4138
+            ]
+        ],
+        "default:diversed": [
+            [
+                "cryptocurrencies",
+                0.4447
+            ],
+            [
+                "solana",
+                0.4437
+            ],
+            [
+                "usdt",
+                0.2796
+            ]
+        ],
+        "ngram2": [
+            [
+                "solana ether",
+                0.5838
+            ],
+            [
+                "cryptocurrencies plunge",
+                0.5389
+            ],
+            [
+                "solana blockchain",
+                0.4913
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "solana ether",
+                0.5838
+            ],
+            [
+                "cryptocurrencies plunge",
+                0.5389
+            ],
+            [
+                "ftx crash",
+                0.2812
+            ]
+        ],
+        "ngram3": [
+            [
+                "billion bitcoin fallen",
+                0.4727
+            ],
+            [
+                "solana token",
+                0.4752
+            ],
+            [
+                "cryptocurrency lauded ftx",
+                0.4838
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "solana ether",
+                0.5838
+            ],
+            [
+                "cryptocurrencies plunge",
+                0.5389
+            ],
+            [
+                "clobbered ftx crash",
+                0.2597
+            ]
+        ]
+    }
+}

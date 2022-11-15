@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/judge-torres-gives-green-signal-to-ripple-allies-to-file-briefs-2944367",
+    "content": "Judge Torres Gives Green Signal to Ripple Allies To File Briefs Cryptocurrency 1 hour ago (Nov 15, 2022 05:30AM ET) Judge Torres Gives Green Signal to Ripple Allies To File Briefs© Reuters. Judge Torres Gives Green Signal to Ripple Allies To File Briefs FOLD +2.14% XRP/USD +8.92% COIN -7.38% Judge Analisa Torres has granted all Ripple allies motions to file amici briefs. Crypto Law founder, John Deaton shared on Twitter that he will be filing the briefs. Over 13 entities will file Amicus (NASDAQ:FOLD) Briefs for Ripple against SEC. Analisa Torres, the ruling district judge, has granted all Ripple allies motions to file amici briefs. John Deaton, the founder of Crypto Law, took to Twitter to share that he will be filing the briefs tomorrow and Coinbase (NASDAQ:COIN) will be filing them this week. #XRPCommunity #SECGov v. #Ripple #XRP Judge Torres has granted motions to file Amici Briefs. By November 18, 2022, the Association, six XRP holders, Coinbase, the CCI, Valhil, Cryptillian, Veri DAO, Reaper Financial, InvestReady, NSEI and Paradigm must file their formal briefs. pic.twitter.com/rb9HdmYVy7 — James K. Filan 126k (beware of imposters) (@FilanLaw) November 14, 2022 According to the reviewed requests, the Association, six XRP holders, Coinbase, the CCI, Valhil Capital, Cryptillian Payment Systems, Veri DAO, Reaper Financial, InvestReady, NSEI, and Paradigm Operations must file their formal Amicus Briefs by November 18, 2022. While Ripple has 13 entities supporting them, the SEC only got three supporters. John Deaton has asked all ardent XRP followers to read his briefs, adding: Tomorrow I file #XRPHolders Amicus Brief w/my ⦗⦘Declaration. I encourage you to review it, including the Exhibits. You will see how CNBC arguably encouraged people how to buy XRP more than Ripple, or how Coinbase arguably promoted #XRP more than Ripple.” This move comes like victory bells for the altcoin supporters against the American regulatory watchdogs. Over 13 entities and more than 75,000 supporters have joined in solidary support against the lawmaker. In related news, rumors have surfaced that the SEC vs. XRP settlement could be expected tomorrow. The announcement was published in a leading media channel’s morning headline. The media channel soon rectified the news and said it was not true. Ben Armstrong, the founder of BitBoy Crypto soon plunged in to share it on his handle: “Fox Business announced a rumor of a Ripple-SEC Lawsuit settlement. They said it wasn’t true… but did they accidentally just front run the announcement?” Notably, in the fold of the events, the verdict on the long ongoing lawsuit is expected to be concluded by the first half of 2023. The post Judge Torres Gives Green Signal to Ripple Allies To File Briefs appeared first on Coin Edition.",
+    "_result": {
+        "default": [
+            [
+                "ripple",
+                0.415
+            ],
+            [
+                "filing",
+                0.3897
+            ],
+            [
+                "coinbase",
+                0.36
+            ]
+        ],
+        "default:diversed": [
+            [
+                "ripple",
+                0.415
+            ],
+            [
+                "filing",
+                0.3897
+            ],
+            [
+                "xrpholders",
+                0.3266
+            ]
+        ],
+        "ngram2": [
+            [
+                "ripple coinbase",
+                0.5233
+            ],
+            [
+                "ripple sec",
+                0.5142
+            ],
+            [
+                "coin filing",
+                0.496
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "ripple coinbase",
+                0.5233
+            ],
+            [
+                "judge torres",
+                0.4528
+            ],
+            [
+                "filing briefs",
+                0.426
+            ]
+        ],
+        "ngram3": [
+            [
+                "briefs tomorrow coinbase",
+                0.4897
+            ],
+            [
+                "reuters judge torres",
+                0.4928
+            ],
+            [
+                "xrpcommunity secgov ripple",
+                0.4981
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "briefs ripple sec",
+                0.5767
+            ],
+            [
+                "xrp judge torres",
+                0.5184
+            ],
+            [
+                "nasdaq coin filing",
+                0.5046
+            ]
+        ]
+    }
+}

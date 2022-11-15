@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/clarity-on-cros-proofofreserve-sparkles-as-price-soar-by-2146-2944294",
+    "content": "The Crypto.com CEO’s live AMA on YouTube is attributed to an increase in CRO. Cronos prices have jumped by more than 21.46 % in the last 24 hours. CRO has a support level of $0.06163 and a resistance level of $0.07498. Cronos (CRO) prices have risen by 21.46 % to $0.07518 on the cusp of the market crisis. This uptick has been credited to the assurance provided by Crypto.com CEO Kris Marszalek during the live AMA on YouTube. Following the upturn, CRO market capitalization elevated by 25.89% to $1,848,240,429, as did trading volume, which increased by 6.51% to $240,610,088 as of press time. CRO/USD 24-hour price chart (Source: CoinMarketCap) The upper band contacting 0.0746 and the lower band touching 0.0653 denotes that a heightened market is underway since the Bollinger Bands show a protrusion. Price action towards the upper bands also endorses the CRO market’s positive momentum. With a reading of 0.0017, the Moving Average Convergence Divergence (MACD) has crossed the signal line into positive territory. This MACD motion signifies that the bulls are in command of the market, and its upward pointing indicates that the bull run will persist. However, a Stoch RSI reading of 93.00 worries investors because the current trend is anticipated to reverse at this overbought level. Prices may not inherently revert lower, but it cautions traders. CRO/USD 1-hour price chart (Source: CoinMarketCap) The 1-hour price chart also exhibits a bullish crossover, with the 5-day MA touching at 0.0728 and the 20-day MA tickling at 0.0700 below the shorter MA. Price movement above both MAs foretells a further bull run. The Know Sure Thing reading of 100.8599 and pointing upwards also reinforces the concept that the CRO market will proceed on its current upward trend if bulls do not tire. CRO/USD 1-hour price chart (Source: CoinMarketCap) As a whole, the bears appear knackered since technical indicators are trending upward, implying that the bullish momentum may continue.",
+    "_result": {
+        "default": [
+            [
+                "cro",
+                0.4949
+            ],
+            [
+                "coinmarketcap",
+                0.4082
+            ],
+            [
+                "crypto",
+                0.3993
+            ]
+        ],
+        "default:diversed": [
+            [
+                "cro",
+                0.4949
+            ],
+            [
+                "prices",
+                0.3945
+            ],
+            [
+                "ceo",
+                0.3681
+            ]
+        ],
+        "ngram2": [
+            [
+                "cro prices",
+                0.6801
+            ],
+            [
+                "cro market",
+                0.6801
+            ],
+            [
+                "traders cro",
+                0.6368
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "cro prices",
+                0.6801
+            ],
+            [
+                "heightened market",
+                0.4316
+            ],
+            [
+                "com ceo",
+                0.4162
+            ]
+        ],
+        "ngram3": [
+            [
+                "crypto com ceo",
+                0.5503
+            ],
+            [
+                "increase cro",
+                0.5665
+            ],
+            [
+                "cronos prices jumped",
+                0.623
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "cro prices risen",
+                0.7459
+            ],
+            [
+                "cro market capitalization",
+                0.637
+            ],
+            [
+                "crypto com ceo",
+                0.5503
+            ]
+        ]
+    }
+}

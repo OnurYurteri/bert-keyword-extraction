@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/crypto-twitter-unhappy-with-sbf-puff-piece-pushed-by-mainstream-media-2944415",
+    "content": "Crypto Twitter unhappy with SBF ‘puff piece’ pushed by mainstream media Cryptocurrency 38 minutes ago (Nov 15, 2022 06:00AM ET) Crypto Twitter unhappy with SBF ‘puff piece’ pushed by mainstream mediaCrypto Twitter unhappy with SBF ‘puff piece’ pushed by mainstream media When the world realized the fraud Sam Bankman-Fried (SBF) committed to building his FTX empire, fellow entrepreneurs, investors and long-time believers unanimously acknowledged the damage caused to the credibility of the crypto ecosystem. On the other hand, mainstream media — that predominantly attacked crypto via negative speculations — has seemingly taken sides with SBF while paying no heed to the losses exceeding billions of dollars incurred by the general public. While SBF refuses to interact with Crypto Twitter, the same community he once called home, he featured in a New York Times (NYT) article on Nov. 14, trying to explain the sequence of events that led to the fall of the crypto exchange FTX. Surprisingly, the article’s tone did not resonate with the community, as many suspected a bias given SBF’s strong ties with United States politics.",
+    "_result": {
+        "default": [
+            [
+                "crypto",
+                0.4545
+            ],
+            [
+                "sbf",
+                0.4267
+            ],
+            [
+                "fraud",
+                0.3655
+            ]
+        ],
+        "default:diversed": [
+            [
+                "crypto",
+                0.4545
+            ],
+            [
+                "sbf",
+                0.4267
+            ],
+            [
+                "seemingly",
+                0.2767
+            ]
+        ],
+        "ngram2": [
+            [
+                "crypto twitter",
+                0.554
+            ],
+            [
+                "attacked crypto",
+                0.519
+            ],
+            [
+                "media cryptocurrency",
+                0.4827
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "crypto twitter",
+                0.554
+            ],
+            [
+                "fried sbf",
+                0.4788
+            ],
+            [
+                "mainstream media",
+                0.3963
+            ]
+        ],
+        "ngram3": [
+            [
+                "sbf puff",
+                0.4561
+            ],
+            [
+                "crypto negative speculations",
+                0.4613
+            ],
+            [
+                "pushed mainstream mediacrypto",
+                0.5291
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "mainstream media cryptocurrency",
+                0.5841
+            ],
+            [
+                "caused credibility crypto",
+                0.5702
+            ],
+            [
+                "fried sbf committed",
+                0.4934
+            ]
+        ]
+    }
+}

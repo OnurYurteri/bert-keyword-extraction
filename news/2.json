@@ -1,0 +1,90 @@
+{
+    "url": "https://cointelegraph.com/news/ftx-collapse-could-see-crypto-sector-layoffs-accelerate",
+    "content": "FTX collapse could see crypto sector layoffs accelerate While the full impact of FTX’s collapse is still unfolding, some have already warned of an increase in layoffs to come “in the months to follow.” 2936 Total views 41 Total shares Listen to article 2:34 FTX collapse could see crypto sector layoffs accelerateNEWS The fall of crypto exchange FTX and potential resulting contagion could lead to an acceleration of crypto-company layoffs in the coming months, recruitment specialists warn. A Nov. 14 report from crypto data aggregator platform CoinGecko found that as of Nov. 13, the crypto space has seen 4,695 employees let go in 2022 so far, presenting 4% of staff cuts across all “technology startups.” However, the authors of the report warn that crypto layoffs could increase in the coming months when the “full impact” of FTX’s sudden collapse takes effect: “With the collapse of FTX since November 2 and its full impact on the cryptocurrency space still unfolding, further cryptocurrency layoffs may occur in the months to follow.” Speaking to Cointelegraph, CryptoRecruit founder Neil Dundon argues that while FTX’s events will cause some layoffs, it hasn’t changed the broader trend that crypto recruitment follows crypto prices. “Layoffs have been consistent effectively following the same trend as crypto prices. FTX hasn’t changed that broader trend albeit a tragic event,” he said, adding: “There will be layoffs because of it but that will present opportunities for good projects to scoop up good talent which we are collecting.” Kevin Gibson, the founder of recruitment firm Proof of Search, was less optimistic, sharing that he had one candidate that was due to start employment today but had his offer “pulled” during the first call with the company. Gibson said it was hard to comment on how the FTX collapse will shake out as it’s “changing daily” but said his candidate’s experience “will not be an isolated incident.” Companies across the crypto sector have already undergone a number of layoffs throughout the year as a result of the market downturn. Among the most recent staff cuts in the industry include payment processor Stripe’s layoff of 1,000 employees, Flow blockchain developer Dapper Lab’s 22% cut and venture capital firm Digital Currency Group’s 10% layoff. All layoffs took effect in early November. Digital asset-focused investment firm Galaxy Digital was also reported to be eyeing a 20% cut on Nov. 1. Coinbase is understood to have cut another 60 staff on Nov. 10, according to Yahoo Finance. Related: Tech talent migrates to Web3 as large companies face layoffs The latest CoinGecko report follows an earlier Nov. 4 report, which looked into the cities most impacted by cryptocurrency layoffs. At the top of the list was San Francisco — home to Silicon Valley, one of the world’s largest technology and innovation hubs — which was followed by Dubai, New York City and Singapore.",
+    "_result": {
+        "default": [
+            [
+                "crypto",
+                0.4742
+            ],
+            [
+                "cryptorecruit",
+                0.4606
+            ],
+            [
+                "cryptocurrency",
+                0.4577
+            ]
+        ],
+        "default:diversed": [
+            [
+                "crypto",
+                0.4742
+            ],
+            [
+                "layoffs",
+                0.3732
+            ],
+            [
+                "2022",
+                0.2532
+            ]
+        ],
+        "ngram2": [
+            [
+                "cryptocurrency layoffs",
+                0.6747
+            ],
+            [
+                "crypto layoffs",
+                0.672
+            ],
+            [
+                "companies crypto",
+                0.5945
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "cryptocurrency layoffs",
+                0.6747
+            ],
+            [
+                "cryptorecruit founder",
+                0.4765
+            ],
+            [
+                "ftx collapse",
+                0.4222
+            ]
+        ],
+        "ngram3": [
+            [
+                "november impact cryptocurrency",
+                0.5527
+            ],
+            [
+                "ftx collapse crypto",
+                0.5763
+            ],
+            [
+                "warn crypto layoffs",
+                0.6512
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "impacted cryptocurrency layoffs",
+                0.7166
+            ],
+            [
+                "companies crypto",
+                0.5945
+            ],
+            [
+                "ftx collapse crypto",
+                0.5763
+            ]
+        ]
+    }
+}

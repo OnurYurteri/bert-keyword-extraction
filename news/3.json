@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/stock-market-news/ftx-officials-in-contact-with-us-regulators--filing-2944023",
+    "content": "FTX in touch with regulators, may have 1 million creditors - filings Stock Markets 33 minutes ago (Nov 15, 2022 06:01AM ET) 1 FTX in touch with regulators, may have 1 million creditors - filings© Reuters. FILE PHOTO: Representations of cryptocurrencies are seen in front of displayed FTX logo in this illustration taken November 10, 2022. REUTERS/Dado Ruvic/Illustration BTC/USD +0.07% SOL/USD +0.76% By Akriti Sharma and Daniel Leussink (Reuters) - Collapsed-crypto exchange FTX outlined a 'severe liquidity crisis' in U.S. bankruptcy filings, which said the group could have more than 1 million creditors, as regulators opened investigations and lawmakers called for clearer rules on how the industry operates. FTX's filing to a U.S. bankruptcy court, published late on Monday in the United States, said it was in contact with financial regulators and had appointed five new independent directors at each of its main companies, including its sibling trading firm Alameda Research. The exchange, which had been among the world's largest, filed for bankruptcy protection on Friday in one of the highest-profile crypto blowups after panicked traders withdrew $6 billion from the platform in just 72 hours and rival exchange Binance abandoned a rescue deal. 'FTX faced a severe liquidity crisis that necessitated the filing of these cases on an emergency basis last Friday,' the court filing stated. 'Questions arose about Mr. Bankman-Fried's leadership and the handling of FTX's complex array of assets and businesses under his direction.' FTX founder and former chief executive Sam Bankman-Fried, said he expanded his business too fast and failed to notice signs of trouble at the exchange, whose downfall sent shock waves through the crypto industry, the New York Times reported late on Monday. GRAPHIC: Top crypto exchanges by volume Top crypto exchanges by volume - https://graphics.reuters.com/FINTECH-CRYPTO/jnpwygnndpw/chart.png There are more one hundred thousand creditors involved in the bankruptcy case, although this number could surpass one million, the filings said, as FTX requested that multiple FTX group companies file one consolidated list of major creditors, rather than separate ones. The filings also confirmed that FTX had responded to a cyber attack on Nov. 11, after saying on Saturday it had seen 'unauthorized transactions' on its platform. FTX has engaged Alvarez & Marsal as financial advisor, and the firm said it has been in contact with the U.S. Attorney's Office, SEC, CFTC, and dozens of federal, state and international regulatory agencies over the past 72 hours. REGULATORY SCRUTINY The sudden collapse of Bahamas-headquartered FTX, once a rising star of the crypto industry with a $32 billion valuation as of January, has sparked investigations by financial regulators and other supervisory bodies around the world. The Securities Commission of The Bahamas, in a statement also dated Monday, said two PwC partners had been approved by the Supreme Court as joint provisional liquidators for FTX. The Commission said it had moved to use its regulatory powers to protect the interests of clients and creditors of FTX Digital Markets (a local unit of the exchange) 'given the magnitude, urgency, and international implications of the unfolding events'. It said it would engage with other supervisory authorities. Several global regulators have moved to remove licences form local FTX units, and are looking into the company. Investigations by the U.S. Justice Department, the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC) are also underway, a source with knowledge of the investigations told Reuters. Crypto industry peers and partners have been quick to distance themselves from FTX and demonstrate their sound financials, though several have disclosed they are exposed to FTX, having held tokens on the exchange or by owning FTX's native token, FTT , which plunged around 94% last week. Bitcoin has lost 19% this month and other tokens, such as those affiliated with the Solana blockchain once lauded by Bankman-Fried, have suffered too. 'One has to ask why prices are not already lower than they are. The answer may simply be that the scale of this collapse is such that credit concerns now trump every other risk, and participants are focusing on moving assets off exchanges, at the short-term expense of price risk management,' said crypto liquidity provider B2C2 in a note to customers. The fallout has so far been limited to crypto exchanges and traders, but is featuring in mainstream policy discussions too. French central bank Governor Francois Villeroy de Galhau in a speech in Tokyo called for a global regulatory response to financial uncertainty caused by the crypto market. 'Let me stress that this uncertainty is why we need to regulate strongly and quickly crypto assets internationally,' he said. 'The last episodes show us that we cannot allow for a second 'crypto winter' to still add to uncertainty and financial instability.' On Monday, officials from the U.S. Federal Reserve and legislature called for crypto finance to come under greater regulatory scrutiny.",
+    "_result": {
+        "default": [
+            [
+                "bankruptcy",
+                0.4708
+            ],
+            [
+                "ftx",
+                0.4279
+            ],
+            [
+                "creditors",
+                0.3503
+            ]
+        ],
+        "default:diversed": [
+            [
+                "bankruptcy",
+                0.4708
+            ],
+            [
+                "ftx",
+                0.4279
+            ],
+            [
+                "cryptocurrencies",
+                0.3174
+            ]
+        ],
+        "ngram2": [
+            [
+                "creditors ftx",
+                0.6324
+            ],
+            [
+                "ftx filing",
+                0.5676
+            ],
+            [
+                "crisis bankruptcy",
+                0.5538
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "creditors ftx",
+                0.6324
+            ],
+            [
+                "largest filed",
+                0.4299
+            ],
+            [
+                "reuters crypto",
+                0.4246
+            ]
+        ],
+        "ngram3": [
+            [
+                "disclosed exposed ftx",
+                0.5503
+            ],
+            [
+                "largest filed bankruptcy",
+                0.5572
+            ],
+            [
+                "crypto exchange ftx",
+                0.5616
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "ftx filing bankruptcy",
+                0.7246
+            ],
+            [
+                "million creditors regulators",
+                0.4893
+            ],
+            [
+                "told reuters crypto",
+                0.449
+            ]
+        ]
+    }
+}

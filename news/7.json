@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/ethereum-withdrawals-on-cryptocom-reaches-new-alltime-high-2944414",
+    "content": "Ethereum Withdrawals On Crypto.com Reaches New All-time High Cryptocurrency 38 minutes ago (Nov 15, 2022 06:00AM ET) Ethereum Withdrawals On Crypto.com Reaches New All-time HighEthereum Withdrawals On Crypto.com Reaches New All-time High USDT/USD +0.02% BTC/USD +0.08% ETH/USD +0.59% The number of Ethereum (ETH) withdrawals on Crypto.com has reached a new all-time high. ETH is currently worth $1,253.25 after a 3.12% increase in price. CRO, Crypto.com’s native token, is faring surprisingly well today. The co-founder and CEO of CryptoQuant, Ki Young Ju, took to Twitter on November 14 to share some information about the number of withdrawals on exchanges that is underway after what happened with FTX and Crypto.com. Ethereum Exchange Withdrawal Transaction (Source: CryptoQuant) According to the post, the number of Ethereum (ETH) withdrawals on Crypto.com” has reached a new all-time high 155,850 times over the last three days” alone. Ethereum / Tether US 1D (Source: CoinMarketCap) According to CoinMarketCap, ETH is currently worth $1,253.25 after a 3.12% increase in price over the last 24 hours. The altcoin is still, however, still in the red by more than 15% over the last week. ETH’s 24-hour trading volume is also in the green today by more than 9% to now stand at $13,914,417,946. In addition, the altcoin strengthened against its biggest competitor, Bitcoin (BTC), by about 0.68%. Crypto.com Coin / Tether US 1D (Source: CoinMarketCap) Cronos (CRO), which is Crypto.com’s native token, is faring surprisingly well today. Data from CoinMarketCap indicates that CRO is trading hands at $0.07409 after an 18.87% increase in price over the last day and after reaching a high of $0.07459 over the same period. On the other hand, the cryptocurrency is still down by more than 30% over the last week. Also in the green is CRO’s 24-hour trading volume which is now at $240,771,162 after a more than 6% increase. CRO strengthened against BTC and ETH by about 17.18% and 16.29z5, respectively, over the last 24 hours. Disclaimer: The views and opinions as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss. The post Ethereum Withdrawals On Crypto.com Reaches New All-time High appeared first on Coin Edition.",
+    "_result": {
+        "default": [
+            [
+                "exchanges",
+                0.4508
+            ],
+            [
+                "cryptocurrency",
+                0.4081
+            ],
+            [
+                "ethereum",
+                0.4071
+            ]
+        ],
+        "default:diversed": [
+            [
+                "exchanges",
+                0.4508
+            ],
+            [
+                "cryptoquant",
+                0.3529
+            ],
+            [
+                "withdrawal",
+                0.3513
+            ]
+        ],
+        "ngram2": [
+            [
+                "withdrawals crypto",
+                0.591
+            ],
+            [
+                "ethereum withdrawals",
+                0.564
+            ],
+            [
+                "withdrawals exchanges",
+                0.5437
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "withdrawals crypto",
+                0.591
+            ],
+            [
+                "et ethereum",
+                0.5103
+            ],
+            [
+                "price cro",
+                0.354
+            ]
+        ],
+        "ngram3": [
+            [
+                "price cro crypto",
+                0.5214
+            ],
+            [
+                "eth withdrawals",
+                0.5335
+            ],
+            [
+                "com ethereum exchange",
+                0.541
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "withdrawals crypto com",
+                0.6805
+            ],
+            [
+                "exchanges underway",
+                0.4833
+            ],
+            [
+                "eth currently worth",
+                0.4541
+            ]
+        ]
+    }
+}

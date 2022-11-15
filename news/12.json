@@ -1,0 +1,90 @@
+{
+    "url": "https://www.investing.com/news/cryptocurrency-news/new-huo-technology-subsidiary-reveals-it-has-132m-in-customer-funds-stuck-on-ftx-2943647",
+    "content": "New Huo Technology Subsidiary Reveals It Has $13.2M in Customer Funds Stuck on FTX Cryptocurrency 15 hours ago (Nov 14, 2022 03:30PM ET) New Huo Technology Subsidiary Reveals It Has $13.2M in Customer Funds Stuck on FTXNew Huo Technology Subsidiary Reveals It Has $13.2M in Customer Funds Stuck on FTX New Huo Technology subsidiary Hbit has $18.1 million stuck on FTX, of which $13.2 million are customer funds. The founder and ex-CEO of the Huobi exchange has provided an unsecured non-interest-bearing loan of $14 million to help with client asset liability. New Huo Technology used to be known as Huobi Technology before Justin Sun acquired the majority stake in Huobi Global. New Huo Technology subsidiary Hbit has revealed it holds $18.1 million on the bankrupt FTX exchange. Of this, $13.2 million are customer funds and the remaining $4.9 million belong to Hbit. New Huo Technology is a rebranded Huobi Technology, which was an affiliate of Huobi Global before Tron founder and crypto billionaire Justin Sun acquired the majority stake in Huobi Global. New Huo Technology said that the funds are stuck on the exchange and that it’s unable to withdraw them. However, Leon Lin, the founder of Huobi and now the majority shareholder of New Huo Technology, has provided an unsecured non-interest-bearing loan of $14 million to cover client asset liability. The company’s board said that it having the assets stuck on FTX “does not affect the normal business operations” of New Huo Technology. This is because Hbit is legally separated from the rest of its companies. “Safe and Reliable Services” Huobi, one of the most popular exchanges in Asia, quickly made it clear that it’s not related to New Huo Technology. It said on Twitter on Monday that “all operations of Huobi are normal, and we will continue to provide customers with safe and reliable services.” Despite that, Huobi’s token has been hit hard by the fallout of FTX. HT has gone down almost 50% in the last seven days, and is currently trading at $4.87, 88%. This is down from its all-time high of $39.66, according to data from CoinGecko.Before FTX announced bankruptcy, Huobi’s new owner announced he was going to help SBF’s beleaguered exchange with liquidity. The two companies announced Tron Credit Facility, a way for FTX users to withdraw their funds. This would be done by swapping TRX, BTT, JST, SUN, and HT from FTX 1:1 to external wallets.But hours later FTX, together with FTX.US, Alameda Research, West Realm Shires Services, and other 130 FTX Group companies, filed for Chapter 11 bankruptcy. FTX is now being investigated by the U.S. Securities and Exchange Commission and Justice Department for any potential criminal activities. The Royal Bahamas Police Force and the Securities Commission of the Bahamas have also launched investigations. On the Flipside It’s not clear whether there’s really no link between Huobi Global and New Huo Technology. It’s unknown whether New Huo Technology will be able to retrieve the stuck funds. Why You Should Care New Huo Technology is one of the many crypto companies that have been affected by the blowup of FTX. Investors should be wary of where they hold their digital assets and who they do business with. This is especially the case in these uncertain times. You Might Also Like: Kraken Freezes Accounts Related to FTX and Alameda After Hacker Moves Funds Through Exchange",
+    "_result": {
+        "default": [
+            [
+                "hbit",
+                0.4387
+            ],
+            [
+                "huobi",
+                0.4378
+            ],
+            [
+                "crypto",
+                0.3405
+            ]
+        ],
+        "default:diversed": [
+            [
+                "hbit",
+                0.4387
+            ],
+            [
+                "ftx",
+                0.3236
+            ],
+            [
+                "cryptocurrency",
+                0.2827
+            ]
+        ],
+        "ngram2": [
+            [
+                "rebranded huobi",
+                0.5709
+            ],
+            [
+                "huobi technology",
+                0.5459
+            ],
+            [
+                "ceo huobi",
+                0.5454
+            ]
+        ],
+        "ngram2:diversed": [
+            [
+                "rebranded huobi",
+                0.5709
+            ],
+            [
+                "technology hbit",
+                0.46
+            ],
+            [
+                "ftx cryptocurrency",
+                0.4151
+            ]
+        ],
+        "ngram3": [
+            [
+                "bankruptcy huobi new",
+                0.5601
+            ],
+            [
+                "ftxnew huo technology",
+                0.5796
+            ],
+            [
+                "ceo huobi exchange",
+                0.6108
+            ]
+        ],
+        "ngram3:diversed": [
+            [
+                "huobi technology affiliate",
+                0.6501
+            ],
+            [
+                "ftx new huo",
+                0.6084
+            ],
+            [
+                "bankrupt ftx exchange",
+                0.4506
+            ]
+        ]
+    }
+}
